@@ -1,3 +1,22 @@
-Evalution of hiring and exit data to arrive at a hiring strategy for FY 24-25
-Three datasets were analyzed for data extraction and then visulaiztions were created in Power Bi
-The datasets had hiring,exits,manpower & headcount data available for a duration of 3 years
+Objective:
+
+Analyzing the HR data of XYZ Corporation for the duration of 2018-2021 to identify trends, perform root cause analysis on any issues identified, and provide actionable business insights.
+
+Datasets used:
+
+1.Hiring 
+2.Exits
+3.Manpower
+4.Headcount
+
+Approach steps:
+
+Data cleaning:
+Using Excel & SQl to clean the data and sort it for analysis
+
+Data Visualization:
+1. Visualization on joining & exit data
+2. Visualization on forecasting new joiners & exits
+3. Visualization on resignation causes
+4. Visualization on hiring trends
+ 
